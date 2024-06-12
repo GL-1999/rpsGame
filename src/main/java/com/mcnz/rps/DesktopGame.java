@@ -34,7 +34,7 @@ public class DesktopGame {
 
 			JOptionPane.showMessageDialog(null, result);
 			System.out.println(score);
-			System.out.println("welcome gowthami");
+			System.out.println("welcome gowthami hello");
 			for (GameSummary gameSummary : history) {
 				System.out.println(gameSummary);
 			}
