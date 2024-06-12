@@ -35,6 +35,7 @@ public class DesktopGame {
 			JOptionPane.showMessageDialog(null, result);
 			System.out.println(score);
 			System.out.println("yes we did it");
+			System.out.println("another test");
 			for (GameSummary gameSummary : history) {
 				System.out.println(gameSummary);
 			}
