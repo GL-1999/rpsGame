@@ -37,7 +37,7 @@ public class DesktopGame {
 			System.out.println("yes we did it");
 			System.out.println("another test");
 			
-			System.out.println("welcome to my practice session thank you sir ");
+			System.out.println("welcome to my practice session thank you all");
 			for (GameSummary gameSummary : history) {
 				System.out.println(gameSummary);
 			}
