@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>Rock Paper Scissors!!!Gowthami Game</title>																																																						<html>
-<h1>Hi this is Gowthami Gaming World...</h1>
+<marquee><h1>Hi this is Gowthami Gaming World...</h1></marquee>
 <h3><color = red>Game on sale upto 60% off this festive season!</h3></color>
 </head>
 
