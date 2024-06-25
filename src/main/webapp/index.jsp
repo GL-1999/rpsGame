@@ -2,6 +2,7 @@
 <head>
 <title>Rock Paper Scissors!!!Gowthami Game</title>																																																						<html>
 <h1>Hi this is Gowthami Gaming World...</h1>
+<h3>Game on sale upto 60% off this festive season!</h3>
 </head>
 
    <body>
